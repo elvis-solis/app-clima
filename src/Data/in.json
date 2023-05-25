@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Delhi", 
+    "lat": "28.6600", 
+    "lng": "77.2300", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Delhi", 
+    "capital": "admin", 
+    "population": "29617000", 
+    "population_proper": "16753235"
+  },
+  {
+    "city": "Ciudad de Guatemala",
+    "lat": "14.6349",
+    "lng": "-90.5069",
+    "country": "Guatemala",
+    "iso2": "GT",
+    "admin_name": "",
+    "capital": "primary",
+    "population": "2918000",
+    "population_proper": "2918000"
+  },
+  {
+    "city": "San Salvador",
+    "lat": "13.6929",
+    "lng": "-89.2182",
+    "country": "El Salvador",
+    "iso2": "SV",
+    "admin_name": "",
+    "capital": "primary",
+    "population": "2275000",
+    "population_proper": "2275000"
+  },
+  {
+    "city": "Tegucigalpa",
+    "lat": "14.0818",
+    "lng": "-87.2068",
+    "country": "Honduras",
+    "iso2": "HN",
+    "admin_name": "",
+    "capital": "primary",
+    "population": "1130000",
+    "population_proper": "1130000"
+  },
+  {
+    "city": "San José",
+    "lat": "9.9281",
+    "lng": "-84.0907",
+    "country": "Costa Rica",
+    "iso2": "CR",
+    "admin_name": "",
+    "capital": "primary",
+    "population": "333400",
+    "population_proper": "333400"
+  },
+  {
+    "city": "Managua",
+    "lat": "12.1140",
+    "lng": "-86.2362",
+    "country": "Nicaragua",
+    "iso2": "NI",
+    "admin_name": "",
+    "capital": "primary",
+    "population": "973087",
+    "population_proper": "973087"
+  },
+  {
+    "city": "Ciudad de México",
+    "lat": "19.4326",
+    "lng": "-99.1332",
+    "country": "México",
+    "iso2": "MX",
+    "admin_name": "",
+    "capital": "primary",
+    "population": "8950000",
+    "population_proper": "8950000"
+  },
+  {
+    "city": "New York",
+    "lat": "40.7127",
+    "lng": "-74.0059",
+    "country": "United States",
+    "iso2": "US",
+    "admin_name": "New York",
+    "capital": "",
+    "population": "18713220",
+    "population_proper": "18713220"
+  },
+  {
+    "city": "London",
+    "lat": "51.5074",
+    "lng": "-0.1278",
+    "country": "United Kingdom",
+    "iso2": "GB",
+    "admin_name": "",
+    "capital": "primary",
+    "population": "8825000",
+    "population_proper": "8825000"
+  },
+  {
+    "city": "Paris",
+    "lat": "48.8566",
+    "lng": "2.3522",
+    "country": "France",
+    "iso2": "FR",
+    "admin_name": "",
+    "capital": "primary",
+    "population": "11017230",
+    "population_proper": "11017230"
+  }
+]
